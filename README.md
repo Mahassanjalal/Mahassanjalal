@@ -1,14 +1,25 @@
 # **Senior Full Stack Developer**
 
-With over **eight years** of experience in web development, I specialize in building high-load, enterprise-grade applications using **Angular**, **ReactJS**, **NestJS** (Node.js) with **TypeScript**, and **Spring Boot framework** using **Java** Language. My focus is on creating responsive web designs, interactive graphics, **Rapid prototypes** , and **Rapid API development** with automated testing that drive business success.
+With over **10 years** of experience in web development, I specialize in building high-load, enterprise-grade applications using **Angular**, **ReactJS**, **NestJS** (Node.js) with **TypeScript**, and **Spring Boot framework** using **Java** Language. My focus is on creating responsive web designs, interactive graphics, **Rapid prototypes** , and **Rapid API development** with automated testing that drive business success.
 
 ---
 
 ## **Technical Expertise**
 
-I possess a broad skill set that includes **backend development** with **NestJS**, **Node.js**, **Prisma**, **TypeORM**, **Kafka**, **Spring Boot**, **Spring Security** and **Docker**, supported by a deep understanding of **microservices architecture**. My proficiency extends to advanced **AI/ML** techniques, including **Supervised** and **Unsupervised Learning**, **Artificial Neural Networks** (ANN), **Convolutional Neural Networks** (CNN), **Recurrent Neural Networks** (RNN), **Generative AI**, **Transformers**, **Retrieval-Augmented Generation (RAG)**, and **Large Language Models (LLMs)**.
+My expertise includes backend development with 𝗡𝗲𝘀𝘁𝗝𝗦, 𝗡𝗼𝗱𝗲.𝗷𝘀, 𝗣𝗿𝗶𝘀𝗺𝗮, 𝗧𝘆𝗽𝗲𝗢𝗥𝗠, 𝗮𝗻𝗱 𝗞𝗮𝗳𝗸𝗮, Springboot Framework, Spring Security, Spring JPA, Lombok , RabbitMQ, Docker etc, supported by a deep understanding of 𝗺𝗶𝗰𝗿𝗼𝘀𝗲𝗿𝘃𝗶𝗰𝗲𝘀 𝗮𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲.
+My proficiency extends to Advanced 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗮𝗻𝗱 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Including 𝗦𝘂𝗽𝗲𝗿𝘃𝗶𝘀𝗲𝗱 𝗮𝗻𝗱 𝗨𝗻𝘀𝘂𝗽𝗲𝗿𝘃𝗶𝘀𝗲𝗱 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴, 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗡𝗲𝘂𝗿𝗮𝗹 𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝘀 (𝗔𝗡𝗡), 𝗖𝗼𝗻𝘃𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝗮𝗹 𝗡𝗲𝘂𝗿𝗮𝗹 𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝘀 (𝗖𝗡𝗡), 𝗥𝗲𝗰𝘂𝗿𝗿𝗲𝗻𝘁 𝗡𝗲𝘂𝗿𝗮𝗹 𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝘀 (𝗥𝗡𝗡), 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗔𝗜, 𝘁𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗲𝗿𝘀, 𝗥𝗲𝘁𝗿𝗶𝗲𝘃𝗮𝗹-𝗔𝘂𝗴𝗺𝗲𝗻𝘁𝗲𝗱 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗼𝗻 (𝗥𝗔𝗚), 𝗮𝗻𝗱 𝗟𝗮𝗿𝗴𝗲 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗠𝗼𝗱𝗲𝗹𝘀 (𝗟𝗟𝗠𝘀).
 
-I have advanced skills in **data extraction**, **transformation**, and **visualization**, using libraries like **NumPy**, **Pandas**, **SciPy**, **Seaborn**, and **Matplotlib** to analyze and present data effectively.
+Proficient in data extraction, transformation, and visualization using various tools and techniques like NumPy, Pandas, SciPy, Seaborn, and Matplotlib to manipulate, analyze, and present data in meaningful ways.
+
+### **Technical Skills**
+- Backend Frameworks: **𝗡𝗲𝘀𝘁𝗝𝗦**, **𝗡𝗼𝗱𝗲.𝗷𝘀**, **𝗦𝗽𝗿𝗶𝗻𝗴𝗯𝗼𝗼𝘁**
+- Frontend Frameworks: **𝗔𝗻𝗴𝘂𝗹𝗮𝗿**, **𝗥𝗲𝗮𝗰𝘁𝗷𝘀**, **𝗜𝗼𝗻𝗶𝗰**, **𝗡𝗲𝘅𝘁𝗷𝘀**
+- Meta Frameworks: **𝗡𝗲𝘅𝘁𝗷𝘀**, **𝗔𝗻𝗮𝗹𝗼𝗴𝗷𝘀**, **𝗚𝗮𝘁𝘀𝗯𝘆**
+- Libraries: **𝗥𝘅𝗝𝗦**, **𝗡𝗴𝗥𝘅**, **𝗡𝘅**, **𝗦𝗰𝗵𝗲𝗺𝗮𝘁𝗶𝗰**, **𝗥𝗲𝗱𝘂𝘅**, **𝗙𝗶𝗿𝗲𝗯𝗮𝘀𝗲**
+- Databases: **𝗠𝗼𝗻𝗴𝗼𝗗𝗕**, **𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟**, **𝗠𝘆𝗦𝗤𝗟**
+- Cloud Deployment: **𝗔𝗪𝗦**, **𝗗𝗶𝗴𝗶𝘁𝗮𝗹𝗢𝗰𝗲𝗮𝗻**
+- AI/ML: **𝗥𝗲𝗴𝗿𝗲𝘀𝘀𝗶𝗼𝗻**, **𝗖𝗹𝗮𝘀𝘀𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼n**, **𝗦𝗲𝗴𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻**, **𝗗𝗮𝘁𝗮 𝗣𝗿𝗲𝗽𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴**, **𝗗𝗮𝘁𝗮 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻**, **𝗔𝗡𝗡**, **𝗖𝗡𝗡**, **𝗥𝗡𝗡**, **𝗟𝗟𝗠**, **𝗥𝗔𝗚** **𝗟𝗟𝗠**, **𝗧𝗿𝗮𝗻𝘀𝗳𝗲𝗿 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴**, **𝗠𝗼𝗱𝗲𝗹 𝗘𝘃𝗮𝗹𝘂𝗮𝘁𝗶𝗼𝗻**, **𝗠𝗼𝗱𝗲𝗹 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲**
+- Agentic AI: **OpenAI Agent SDK**, **CrewAI** , **Langbase**, **Langchain**, **LangGragh**.
 
 ---
 
@@ -44,7 +55,7 @@ I have advanced skills in **data extraction**, **transformation**, and **visuali
 ![MySQL](https://img.shields.io/badge/-MySQL-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8E2DE2)
 
 ### **Cloud Deployment Platforms**
-![AWS](https://img.shields.io/badge/-AWS-grey?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=8E2DE2)
+![AWS](https://img.shields.io/badge/-aws-grey?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=8E2DE2)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-grey?style=for-the-badge&logo=digitalocean&logoColor=white&labelColor=8E2DE2)
 
 ### **AI/ML Expertise**
